@@ -25,21 +25,8 @@
     "storybook": "start-storybook -p 6006"
   },
   "homepage": "http://casesandberg.github.io/react-color/",
-  "keywords": [
-    "react",
-    "color picker",
-    "react-component",
-    "colorpicker",
-    "picker",
-    "sketch",
-    "chrome",
-    "photoshop",
-    "material design",
-    "popup"
-  ],
   "dependencies": {
     "lodash": "^4.0.1",
-    "material-colors": "^1.2.1",
     "prop-types": "^15.5.10",
     "reactcss": "^1.2.0",
     "tinycolor2": "^1.4.1"
